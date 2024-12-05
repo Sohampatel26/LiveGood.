@@ -1,0 +1,201 @@
+File Manifest for ICPSR 36179
+
+Zeng, Yi, James Vaupel, Zhenyu Xiao, Yuzhi Liu, and Chunyuan Zhang. Chinese
+Longitudinal Healthy Longevity Survey (CLHLS), 1998-2012. ICPSR36179-v1.
+Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2015-09-16. http://doi.org/10.3886/ICPSR36179.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36179-descriptioncitation.pdf       -       -         -       2017-04-28  -
+
+    36179-related_literature.txt        -       -         -       daily       -
+
+    36179-manifest.txt                  -       -         -       daily       -
+
+    36179-Documentation-sampling_design.pdf -       -         -       2015-09-16  1a7aab09cae943259f867a69b3f902f8
+
+
+DS0001 1998-2012 Longitudinal Data, Version 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36179-0001-Codebook.pdf             -       -         -       2015-09-16  1f189d76eba6b1cc4a03b04efb59bb9e
+
+    36179-0001-Data.dta                 -       9,093     4069    2015-09-16  98a737cb3e2a37f4f8e41798091fab9a
+
+    36179-0001-Data.rda                 -       9,093     4069    2015-09-16  6098ac216ed30b1cb442c9727a5fbfc5
+
+    36179-0001-Data.sav                 -       9,093     4069    2015-09-16  86222d6ca98fa184fa4446b9feec2951
+
+    36179-0001-Data.stc                 -       9,093     4069    2015-09-16  151e0b7e9a683e9bebacec0e23d62e02
+
+    36179-0001-Data.tsv                 -       9,093     4069    2015-09-16  a7c4fb4919f2ca85898023ec28c4ce1b
+
+    36179-0001-Data.txt                 9165    9,093     4069    2015-09-16  b4b630996a58f4242eed8d3ca80effe3
+
+    36179-0001-Questionnaire.pdf        -       -         -       2015-09-16  32020472e169bdcc614b9534db919437
+
+    36179-0001-Setup.dct                -       -         -       2015-09-16  536910cfd0f34a50eba207581dcb0941
+
+    36179-0001-Setup.do                 -       -         -       2015-09-16  39a6011cc662c625d3c13b3a9bfe4045
+
+    36179-0001-Setup.sas                -       -         -       2015-09-16  323b8a8b22c373f7463c709e564f7ebd
+
+    36179-0001-Setup.sps                -       -         -       2015-09-16  24f81dc98ff32a17cddb6b0060d9207b
+
+
+DS0002 2000-2012 Longitudinal Data, Version 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36179-0002-Codebook.pdf             -       -         -       2015-09-16  f6d87a86b84aa8cf2df1448f4750d338
+
+    36179-0002-Data.dta                 -       11,199    3701    2015-09-16  8182bc9df79f81e1feb4eeb75c256119
+
+    36179-0002-Data.rda                 -       11,199    3701    2015-09-16  bf76d020563ac36d0b8d4e982e6d3ad9
+
+    36179-0002-Data.sav                 -       11,199    3701    2015-09-16  b413bb051824d47357cc0e496caa0cf9
+
+    36179-0002-Data.stc                 -       11,199    3701    2015-09-16  f25451c15d6d6eb5a37be328b7d9fe6d
+
+    36179-0002-Data.tsv                 -       11,199    3701    2015-09-16  52e5f1b613858a7b52201358dee409c7
+
+    36179-0002-Data.txt                 8605    11,199    3701    2015-09-16  9bbf9647240ba90732bb714fb1ef9a8d
+
+    36179-0002-Questionnaire.pdf        -       -         -       2015-09-16  44c2b02664b4e087030bb4efe5533bdb
+
+    36179-0002-Setup.dct                -       -         -       2015-09-16  72005abd9817e8de90467c68b8e256ae
+
+    36179-0002-Setup.do                 -       -         -       2015-09-16  74de4a3a8f69a11492a792ee74207c19
+
+    36179-0002-Setup.sas                -       -         -       2015-09-16  ad87c1f1e703d585ab347265b346d523
+
+    36179-0002-Setup.sps                -       -         -       2015-09-16  8321b87d460b8f33f3d7966288d5639e
+
+
+DS0003 2002-2012 Longitudinal Data, Version 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36179-0003-Codebook.pdf             -       -         -       2015-09-16  3f3ae6677a0e03f23e813542b712e0bd
+
+    36179-0003-Data.dta                 -       16,064    3393    2015-09-16  9ea38785261398a8412649170b653415
+
+    36179-0003-Data.rda                 -       16,064    3393    2015-09-16  43b1048113fb7d0efe6ecb293d0f1467
+
+    36179-0003-Data.sav                 -       16,064    3393    2015-09-16  6bed37b39366776ce79dbc491abc9974
+
+    36179-0003-Data.stc                 -       16,064    3393    2015-09-16  27ecdcfd5e2325459827bab20ad4da37
+
+    36179-0003-Data.tsv                 -       16,064    3393    2015-09-16  7edec69e2339fa3674b17d09bad4cd23
+
+    36179-0003-Data.txt                 8324    16,064    3393    2015-09-16  833b5f6da3492bca59f81de644a58f24
+
+    36179-0003-Questionnaire.pdf        -       -         -       2015-09-16  4677b65a2a624b8f87f1b3e73dcd92d8
+
+    36179-0003-Setup.dct                -       -         -       2015-09-16  fc10f6d14e657ed97592bc59529df195
+
+    36179-0003-Setup.do                 -       -         -       2015-09-16  ee1c01b47b580076fbb8a3a716ad394c
+
+    36179-0003-Setup.sas                -       -         -       2015-09-16  3d794cdf9f0f05fb8301ce61e1227d7c
+
+    36179-0003-Setup.sps                -       -         -       2015-09-16  e5ea34ea947fc23fa9e1ee26dd4d2f5c
+
+
+DS0004 2005-2012 Longitudinal Data, Version 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36179-0004-Codebook.pdf             -       -         -       2015-09-16  7cefb19c90b4f921bafa3141c41fb176
+
+    36179-0004-Data.dta                 -       15,638    2744    2015-09-16  8d8c4f06d8cfec6148eaf013c09b9bf1
+
+    36179-0004-Data.rda                 -       15,638    2744    2015-09-16  88f2929577cdadf8632a2549c762d0ce
+
+    36179-0004-Data.sav                 -       15,638    2744    2015-09-16  fe8c62c6c608eb19e192bc2918f3cb79
+
+    36179-0004-Data.stc                 -       15,638    2744    2015-09-16  a16558f2edc1363d9377c6cdbcd5d97d
+
+    36179-0004-Data.tsv                 -       15,638    2744    2015-09-16  2c81d1aa28b53d1511b40feb6c64874d
+
+    36179-0004-Data.txt                 7062    15,638    2744    2015-09-16  2f3e17e7796f06cf989707890d75bebc
+
+    36179-0004-Questionnaire.pdf        -       -         -       2015-09-16  8de3b024c48ef7ec32bfb700e3eae724
+
+    36179-0004-Setup.dct                -       -         -       2015-09-16  51c35a06ce7a5e456e4e9d1d4eef1a64
+
+    36179-0004-Setup.do                 -       -         -       2015-09-16  eb90835c1cbfe7030b4609b0f1b950d2
+
+    36179-0004-Setup.sas                -       -         -       2015-09-16  ed281aed7c92fec3fa5a2c3d9285ea57
+
+    36179-0004-Setup.sps                -       -         -       2015-09-16  2178257a6a2525835b6354e4edab5998
+
+
+DS0005 2008-2012 Longitudinal Data, Version 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36179-0005-Codebook.pdf             -       -         -       2015-09-16  9ac52e9d1d68ba53d4d8a713c320d8e1
+
+    36179-0005-Data.dta                 -       16,954    1917    2015-09-16  6ca28dd5467dd721abd0440d467f7091
+
+    36179-0005-Data.rda                 -       16,954    1917    2015-09-16  348e3bb26468fbfe6b9636dec1fcb4cb
+
+    36179-0005-Data.sav                 -       16,954    1917    2015-09-16  8dd2b471c5e875b5c7339aba9bbd373f
+
+    36179-0005-Data.stc                 -       16,954    1917    2015-09-16  b811d007d805401de7360aba5a72215b
+
+    36179-0005-Data.tsv                 -       16,954    1917    2015-09-16  aa25296a423741c26ee1cb4b33cce324
+
+    36179-0005-Data.txt                 5352    16,954    1917    2015-09-16  b857752f40687a6de8b7759602bdd0e8
+
+    36179-0005-Questionnaire.pdf        -       -         -       2015-09-16  63fff9a99cc4ce4c46b94676b64ef4cb
+
+    36179-0005-Setup.dct                -       -         -       2015-09-16  443f6a67fdba0d188caa9bb4190f3b94
+
+    36179-0005-Setup.do                 -       -         -       2015-09-16  f51f1778fccf774df56bd467306715cd
+
+    36179-0005-Setup.sas                -       -         -       2015-09-16  92fc90a812b6914f4a7977b2f12b2c9a
+
+    36179-0005-Setup.sps                -       -         -       2015-09-16  f93631b54aec6ad5645015c3cdaaa008
+
+
+DS0006 2011-2012 Cross-Sectional Data, Version 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36179-0006-Codebook.pdf             -       -         -       2015-09-16  9e6a2f6a7bcc4f7aa12d6fb33cc4459e
+
+    36179-0006-Data.dta                 -       9,765     945     2015-09-16  07ec64502680b9c5378718d449bd7199
+
+    36179-0006-Data.rda                 -       9,765     945     2015-09-16  481b90fee90121e201e0a7439ad2c904
+
+    36179-0006-Data.sav                 -       9,765     945     2015-09-16  fe5b69816fc4a6bb71b5c216b01c6dc8
+
+    36179-0006-Data.stc                 -       9,765     945     2015-09-16  567f64fc372f077e213fa8477e72598f
+
+    36179-0006-Data.tsv                 -       9,765     945     2015-09-16  12bdb81c56fc87c912d11ab15f0bb79d
+
+    36179-0006-Data.txt                 2518    9,765     945     2015-09-16  39c2e9cc01bcd301c108322581d20c8d
+
+    36179-0006-Questionnaire.pdf        -       -         -       2015-09-16  1137de4a01aa21ee559f39d0f4c2e911
+
+    36179-0006-Setup.dct                -       -         -       2015-09-16  c485285bdcf4be674b3936cf5470984f
+
+    36179-0006-Setup.do                 -       -         -       2015-09-16  5de0f590a207334b6b8064042d905904
+
+    36179-0006-Setup.sas                -       -         -       2015-09-16  2532a97297469f38249438cacde7e045
+
+    36179-0006-Setup.sps                -       -         -       2015-09-16  2e38270a40ceeeaaf91759d5272a0ea5
+

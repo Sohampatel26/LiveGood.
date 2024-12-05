@@ -1,0 +1,978 @@
+Bibliography
+Chinese Longitudinal Healthy Longevity Survey (CLHLS), 1998-2012
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 36179. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. An, R.; Liu, G.G., "Cognitive impairment and mortality among the oldest-
+old Chinese." International Journal of Geriatric Psychiatry. Feb 2016, 31,
+(12), 1345 - 1353. DOI: 10.1002/gps.4442
+
+2. Bai, Chen; Xie, Yuning; Gu, Danan, "Fruit and Vegetable Intakes and
+Sleep in Linkage With Cognition Among Older Adults in China." Research
+Square, Preprint. Nov 15, 2021.. DOI: 10.21203/rs.3.rs-1064592/v1
+
+3. Brasher, Melanie S., "Older Parents’ Coresidence With Adult Daughters in
+Contemporary China: The Role of Individual and Community Characteristics."
+2019..
+Full text PDF: https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1031&context=soc_facpubs
+
+4. Cao, Xingqi; Ying, Zhimin; Li, Xueqin; Zhang, Jingyun; Hoogendijk, Emiel
+O.; Liu, Zuyun, "Serum 25-hydroxyvitamin D in relation to disability in
+activities of daily living, mobility, and objective physical functioning
+among Chinese older adults." Experimental Gerontology. In press 2021,. DOI:
+10.1016/j.exger.2021.111290
+Full text PDF: https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1031&context=soc_facpubs
+
+5. Chen, Chen; Liu, Yingchun; Cao, Zhaojin; Yin, Zhaoxue; Zhao, Feng; Lv,
+Yuebin; Liu, Zuyun; Mao, Chen; Song, Shixun; Liu, Ling; Qu, Yingli; Ji,
+Saisai; Duan, Jun; Wang, Jiaonan; Kraus, Virginia Byers; Zeng, Yi; Shi,
+Xiaoming, "Combined associations of hs-CRP and cognitive function with all-
+cause mortality among oldest-old adults in Chinese longevity areas: A
+prospective cohort study." Immunity and Ageing. Dec 2019, 16, (30), 2 - 9.
+DOI: 10.1186/s12979-019-0170-y
+Full text PDF: https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1031&context=soc_facpubs
+
+6. Chen, He; Hu, Hongwei, "The relationship and mechanism between education
+and functional health status transition among older persons in China." BMC
+Geriatrics. 2018, 18, (89),. DOI: 10.1186/s12877-018-0785-4
+Full text PDF: https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1031&context=soc_facpubs
+
+7. Chen, Lele, "Leisure activities and psychological wellbeing reduce the
+risk of cognitive impairment among older adults with hearing difficulty: A
+longitudinal study in China." Maturitas. Jun 2021, 148, 7 - 13. DOI:
+10.1016/j.maturitas.2021.03.011
+Full text PDF: https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1031&context=soc_facpubs
+
+8. Chen, Lele; Zeng, Yanbing; Fang, Ya, "The influencing factors of
+inpatient care utilization among the elderly in China based on SEM."
+Chinese Journal of Health Statistics. 2017, 34, (5), 696 - 699.
+Abstract: http://wprim.whocc.org.cn/admin/article/articleDetail?WPRIMID=659778&articleId=659778
+
+9. Chen, Qing; Li, Zhi-Hao; Song, Wei-Qi; Yao, Yao; Zhang, Yu-Jie; Zhong,
+Wen-Fang; Zhang, Pei-Dong; Liu, Dan; Zhang, Xi-Ru; Huang, Qing-Mei; Zhao,
+Xiao-Yang; Shi, Xiao-Ming; Mao, Chen, "Association between single
+nucleotide polymorphism of rs1937 in TFAM gene and longevity among the
+elderly Chinese population: Based on the CLHLS study." BMC Geriatrics.
+2022, 22, (16),. DOI: 10.1186/s12877-021-02655-3
+Abstract: http://wprim.whocc.org.cn/admin/article/articleDetail?WPRIMID=659778&articleId=659778
+
+10. Cheng, Lingguo, "Long-term care demand and supply among the rural
+elderly in China: Evidence from CLHLS data." In Zeng, Yi; Lu, Jiehua; Lei,
+Xiaoyan; Shi, Xiaoming, Trends and Determinants of Healthy Aging in China.
+389 - 397, Singapore: Springer Nature Singapore,2022. DOI: 10.1007/978-981-
+19-4154-2_23
+Abstract: http://wprim.whocc.org.cn/admin/article/articleDetail?WPRIMID=659778&articleId=659778
+
+11. Cheng, Lingguo; Liu, Hong; Zhang, Ye; Shen, Ke; Zeng, Yi, "The impact
+of health insurance on health outcomes and spending of the elderly:
+Evidence from China's new cooperative medical scheme." Health Economics.
+Jun 2015, 24, (6), 672 - 691. DOI: 10.1002/hec.3053
+Abstract: http://wprim.whocc.org.cn/admin/article/articleDetail?WPRIMID=659778&articleId=659778
+
+12. Choi, Seongsoo; Taiji, Riley; Chen, Manting; Monden, Christiaan,
+"Cohort trends in the association between sibship size and educational
+attainment in 26 low-fertility countries." Demography. Jun 2020, 57, (3),
+1035 - 1062. DOI: 10.1007/s13524-020-00885-5
+Abstract: http://wprim.whocc.org.cn/admin/article/articleDetail?WPRIMID=659778&articleId=659778
+
+13. Das, Dhiman; Yeung, Wei-Jun Jean; Yang, Yi, "Psychological distress due
+to poverty and its impact on the health of the aging population in China."
+Journal of Applied Business and Economics. Oct 2018, 20, (64), 57 - 73.
+Abstract: http://wprim.whocc.org.cn/admin/article/articleDetail?WPRIMID=659778&articleId=659778
+
+14. Deng, Yuanyuan; Fang, Hanming; Hanewald, Katja; Wu, Shang, "Delay the
+Pension Age or Adjust the Pension Benefit? Implications for Labor Supply
+and Individual Welfare." Dec 14, 2020..
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+15. Di Mari, Roberto; Maruotti, Antonello, "A two-step estimator for
+generalized linear models for longitudinal data with time-varying
+measurement error." Advances in Data Analysis and Classification. Jun 2022,
+16, (2), 273 - 300. DOI: 10.1007/s11634-021-00473-4
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+16. Fang, Y.; Mao, F.; Zhou, Z., "Direct and Indirect Effects of Social
+Engagement on Cognitive Impairment Among Chinese Older Adults [poster]."
+Presented at the 21st International Association of Gerontology and
+Geriatrics (IAGG) World Congress, International Association of Gerontology
+and Geriatrics (IAGG), San Francisco, CA, Jul 23-27, 2017. DOI:
+10.1093/geroni/igx004.627
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+17. Feng, Zhixin; Falkingham, Jane; Liu, Xiaoting; Vlachantoni, Athina,
+"Changes in living arrangements and mortality among older people in China."
+SSM - Population Health. Dec 2017, 3, 9 - 19. DOI:
+10.1016/j.ssmph.2016.11.009
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+18. Feng, Zhixin; Wang, Wenfei; Jones, Kelvyn; Li, Yaqing
+, "An exploratory multilevel analysis of income, income inequality and
+self-rated health of the elderly in China." Social Science and Medicine.
+Dec 2012, 75, (12), 2481 - 2492. DOI: 10.1016/j.socscimed.2012.09.028
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+19. Fu, Rong; Liu, Yujun, "Intergenerational Socioeconomic Mobility and
+Cognitive Impairment in Chinese Older Adults: Does Gender Matter?
+[poster]." Presented at the Gerontological Society of America (GSA) 2021
+Annual Scientific Meeting [virtual], Gerontological Society of America
+(GSA), Nov 10-13, 2021. DOI: 10.1093/geroni/igab046.2622
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+20. Gao, Hui; Wang, Kan; Ahmadizar, Fariba; Zhuang, Jianlin; Jiang, Yu;
+Zhang, Lei; Gu, Jialing; Zhao, Wensui; Xia, Zhao-lin, "Associations of
+changes in late-life blood pressure with cognitive impairment among older
+population in China." BMC Geriatrics. 2021, 21, (536),. DOI:
+10.1186/s12877-021-02479-1
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+21. Gao, Min; Sa, Zhihong; Li, Yanyu; Zhang, Weijun; Tian, Donghua; Zhang,
+Shengfa; Gu, Linni, "Does social participation reduce the risk of
+functional disability among older adults in China? A survival analysis
+using the 2005-2011 waves of the CLHLS data." BMC Geriatrics. 2018, 18,
+224. DOI: 10.1186/s12877-018-0903-3
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+22. Gao, Mingyue; Yang, Min; Qiu, Peiyuan; Kuang, Weihong, "The
+Epidemiological Study of Cognitive Function Among Chinese Community-
+dwelling Elderly People, 1998-2011: The Chinese Longitudinal Healthy
+Longevity Survey." Presented at the Alzheimer's Association International
+Conference 2015, Alzheimer's Association, Washington, DC, Jul 18-23, 2015.
+DOI: 10.1016/j.jalz.2015.07.079 O1-09-05
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+23. Gross, Alden L.; Kueider-Paisley, Alexandra M.; Sullivan, Campbell;
+Schretlen, David; International Neuropsychological Normative Database
+Initiative, "Comparison of approaches for equating different versions of
+the Mini-Mental State Examination administered in 22 studies." American
+Journal of Epidemiology. Dec 2019, 188, (12), 2202 - 2212. DOI:
+10.1093/aje/kwz228
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+24. Gu, Danan; Brown, Bethany L.; Qiu, Li, "Self-perceived uselessness is
+associated with lower likelihood of successful aging among older adults in
+China." BMC Geriatrics. 2016, 16, (1), 172. DOI: 10.1186/s12877-016-0348-5
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+25. Gu, Danan; Dupre, Matthew E.; Qiu, Li, "Self-perception of uselessness
+and mortality among older adults in China." Archives of Gerontology and
+Geriatrics. Jan-Feb 2017, 68, 186 - 194. DOI: 10.1016/j.archger.2016.10.015
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+26. Gu, Danan; Feng, Qiushi, "Psychological resilience of Chinese
+centenarians and its associations with survival and health: A fuzzy set
+analysis." Journals of Gerontology, Series B: Psychological Sciences and
+Social Sciences. Jun 23, 2016, 1 - 10. DOI: 10.1093/geronb/gbw071
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+27. Gu, Danan; Gomez-Redondo, Rosa; Dupre, Matthew E., "Studying disability
+trends in aging populations." Journal of Cross-Cultural Gerontology. Mar
+2015, 30, (1), 21 - 49. DOI: 10.1007/s10823-014-9245-6
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+28. Gu, Danan; Zhu, Haiyan; Brown, Tyson; Hoenig, Helen; Zeng, Yi, "Tourism
+experiences and self-rated health among older adults in China." Journal of
+Aging and Health. Oct 2015, 28, (4), 675 - 703. DOI:
+10.1177/0898264315609906
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+29. Gu, Lijuan; Rosenberg, Mark W.; Zeng, Juxin, "Changing caregiving
+relationships for older home-based Chinese people in a transitional stage:
+Trends, factors and policy implications." Archives of Gerontology and
+Geriatrics. May-Jun 2017, 70, 219 - 229. DOI: 10.1016/j.archger.2017.02.002
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+30. Han, Lufeng; Huang, Jing, "Has the New Rural Cooperative Medical System
+improved the health of rural residents?." World Scientific Research
+Journal. 2022, 8, (11), 70 - 77. DOI: 10.6911/WSRJ.202211_8(11).0012
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+31. Hanewald, Katja; Li, Han; Shao, Adam W., "Modelling multi-state health
+transitions in China: A generalised linear model with time trends." Annals
+of Actuarial Science. 2019, 13, (1), 145 - 165. DOI:
+10.1017/S1748499518000167
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+32. Hou, C.; Ping, Z.; Yang, K.; Chen, S.; Liu, X.; Li, H.; Liu, M.; Ma,
+Y.; Van Halm-Lutterodt, N.; Tao, L.; Luo, Y.; Yang, X.; Wang, W.; Li, X;
+Guo, X., "Trends of activities of daily living disability situation and
+association with chronic conditions among elderly aged 80 years and over in
+China." Journal of Nutrition, Health and Aging. Mar 2018, 22, (3), 439 -
+445. DOI: 10.1007/s12603-017-0947-7
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+33. Hsieh, N.; Zhang, Z., "Childlessness and Social Support in Old Age in
+China [poster]." Presented at the Gerontological Society of America 2018
+Annual Scientific Meeting, Gerontological Society of America, Boston, MA,
+Nov 14-18, 2018. DOI: 10.1093/geroni/igy023.2444
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+34. Hsieh, Ning; Zhang, Zhenmei, "Childlessness and social support in old
+age in China." Journal of Cross-Cultural Gerontology. Jun 2021, 36, (2),
+121 - 137. DOI: 10.1007/s10823-021-09427-x
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+35. Hu, Mingyue; Shu, Xinhui; Yu, Gang; Wu, Xinyin; Valimaki, Maritta;
+Feng, Hui, "A risk prediction model based on machine learning for cognitive
+impairment among Chinese community-dwelling elderly people with normal
+cognition: Development and validation study." Journal of Medical Internet
+Research. Feb 2021, 23, (2), e20298. DOI: 10.2196/20298
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+36. Huang, Lanhui; Chen, Huihe; Liang, Min, "The association between
+habitual tea consumption and frailty transition in community-dwelling older
+adults: A prospective cohort study." Journal of the American Medical
+Directors Association. Feb 2024, 25, (2), 259 - 265.e3. DOI:
+10.1016/j.jamda.2023.06.006
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+37. Huang, Q.; Chen, G., "Does marriage affect survival among the elderly
+in China?." Gerontechnology. Jun 2014, 13, (2), 214. DOI:
+10.4017/gt.2014.13.02.329.00
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+38. Ji, John S.; Zhu, Anna; Lv, Yuebin; Shi, Xiaoming, "Interaction between
+residential greenness and air pollution mortality: Analysis of the Chinese
+Longitudinal Healthy Longevity Survey." Lancet Planetary Health. Mar 2020,
+4, (3), e107 - e115. DOI: 10.1016/S2542-5196(20)30027-9
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+39. Jiang, Cheng; Shen, Ke, "A study on the income disparity of aged
+population and social security institutions." In Li, Yining; Cheng,
+Zhiqiang, China's Reform to Overleap the Middle-Income Trap. 55 - 68,
+Singapore: Springer Singapore,2019. DOI: 10.1007/978-981-13-9222-1_5
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+40. Jiao, Kaishan, "Inequality of healthy life expectancy for the Chinese
+elderly and its trend." Journal of Chinese Sociology. Dec 2019, 6, (22),.
+DOI: 10.1186/s40711-019-0111-3
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+41. Jin, Shuyi; Li, Chenxi; Miao, Jiani; Sun, Jingyi; Yang, Zhenqing; Cao,
+Xingqi; Sun, Kaili; Liu, Xiaoting; Ma, Lina; Xu, Xin; Liu, Zuyun,
+"Sociodemographic factors predict incident mild cognitive impairment: A
+brief review and empirical study." Journal of the American Medical
+Directors Association. In press 2023,. DOI: 10.1016/j.jamda.2023.08.016
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+42. Jin, Xurui; Xiong, Shangzhi; Yuan, Changzheng; Gong, Enying; Zhang,
+Xian; Yao, Yao; Leng, Yu; Niu, Zhangming; Zeng, Yi; Yan, Lijing L.,
+"Apolipoprotein E genotype, meat, fish, and egg intake in relation to
+mortality among older adults: A longitudinal analysis in China." Frontiers
+in Medicine. 2021, 8, (697389),. DOI: 10.3389/fmed.2021.697389
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+43. Juan Li; Bei Wu; Selbaek, Geir; Krokstad, Steinar; Helvik, Anne-S.; Li,
+Juan; Wu, Bei, "Factors associated with consumption of alcohol in older
+adults - A comparison between two cultures, China and Norway: The CLHLS and
+the HUNT-study." BMC Geriatrics. Jul 2017, 17, 1 - 10. DOI: 10.1186/s12877-
+017-0562-9
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+44. Lai, Wangyang, "Pesticide Use and Health Outcomes: Evidence from
+Agricultural Water Pollution in China." Preprint. SSRN, Oct 29, 2016.. DOI:
+10.2139/ssrn.2751458
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+45. Lai, Wangyang, "Pesticide use and health outcomes: Evidence from
+agricultural water pollution in China." Journal of Environmental Economics
+and Management. Nov 2017, 86, 93 - 120. DOI: 10.1016/j.jeem.2017.05.006
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+46. Lai, Wangyang, "Three Essays on Agricultural Development and
+Environmental Economics in China." Dissertation, Ohio State University,
+2017.
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+47. Li, H., "Participation in Low-Income Financial Assistance Programs by
+Older Adults in China [poster]." Presented at the 21st International
+Association of Gerontology and Geriatrics (IAGG) World Congress,
+International Association of Gerontology and Geriatrics (IAGG), San
+Francisco, CA, Jul 23-27, 2017. DOI: 10.1093/geroni/igx004.2866
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+48. Li, J.; Wu, B.; Tevik, K.; Krokstad, S.; Helvik, A., "Factors
+Associated with Elevated Consumption of Alcohol in Older Adults: A
+Comparison Between China and Norway." Presented at the Gerontological
+Society of America 2018 Annual Scientific Meeting, Gerontological Society
+of America, Boston, MA, Nov 14-18, 2018. DOI: 10.1093/geroni/igy023.869
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+49. Li, J.; Zhu, X.; Qiu, C.; Zeng, Y., "Leisure Activities, Education, and
+Cognitive Impairment: A Population-Based Longitudinal Study [poster]."
+Presented at the 21st International Association of Gerontology and
+Geriatrics (IAGG) World Congress, International Association of Gerontology
+and Geriatrics (IAGG), San Francisco, CA, Jul 23-27, 2017. DOI:
+10.1093/geroni/igx004.1214
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+50. Li, Jiajing; Huang, Yanran; Nicholas, Stephen; Wang, Jian, "China's new
+cooperative medical scheme's impact on the medical expenses of elderly
+rural migrants." International Journal of Environmental Research and Public
+Health. Dec 2019, 16, (24), 4953. DOI: 10.3390/ijerph16244953
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+51. Li, Juan; Wu, Bei; Tevik, Kjerstin; Krokstad, Steinar; Helvik, A.S.,
+"Factors associated with elevated consumption of alcohol in older adults -
+Comparison between China and Norway: The CLHLS and the HUNT Study." BMJ
+Open. 2019, 9, e028646. DOI: 10.1136/bmjopen-2018-028646
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+52. Li, Juan; Xu, Hanzhang; Pan, Wei; Wu, Bei, "Association between tooth
+loss and cognitive decline: A 13-year longitudinal study of Chinese older
+adults." PLOS One. Feb 2017, 12, (2), 1 - 12.
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+53. Li, Mengting; Dai, Haijing, "Determining the primary caregiver for
+disabled older adults in Mainland China: Spouse priority and living
+arrangements." Journal of Family Therapy. Feb 2019, 41, (1), 126 - 141.
+DOI: 10.1111/1467-6427.12213
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+54. Li, Qiang; Zhang, Zhen, "Age trajectories of independence in daily
+living among the oldest old in China." European Journal of Ageing. Dec
+2018, 15, (4), 393 - 406. DOI: 10.1007/s10433-018-0460-9
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+55. Li, Z.; Wang, D.; Xu, H., "A HLM analysis on the influencing factors of
+cognitive performance among the old elderly." Chinese Journal of Evidence-
+Based Medicine. 2019, 19, (8), 894 - 898. DOI: 10.7507/1672-2531.201902007
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+56. Li, Zhang, "Determinants of living arrangements among the Chinese
+elderly: New evidence from the CLHLS 2011 wave." Chinese Studies. Feb 2015,
+4, (1), 32 - 43. DOI: 10.4236/chnstd.2015.41006
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+57. Liu, Lihe, "Living Arrangement Preferences Analysis of Chinese Elders:
+Evidence From CLHLS 2005-2011 Waves." Thesis, University of Minnesota,
+2018. DOI: 10.22004/ag.econ.274546
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+58. Liu, Linxin; Zhu, Anna; Shu, Chang; Zeng, Yi; Ji, John S., "Gene-
+environment interaction of FOXO and residential greenness on mortality
+among older adults." Rejuvenation Research. Feb 2021, 24, (1), 49 - 61.
+DOI: 10.1089/rej.2019.2301
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+59. Liu, Liyi, "Essays on Public Economics." Dissertation, University of
+Wisconsin, Madison, 2017.
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+60. Liu, Yiwei; Diao, Li; Xu, Ling, "The impact of childhood experience of
+starvations on the health of older adults: Evidence from China."
+International Journal of Health Planning and Management. In press 2020,.
+DOI: 10.1002/hpm.3099
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+61. Luo, Weixiang; Xie, Yu, "Socioeconomic disparities in mortality among
+Chinese elderly." Population Studies. Aug 2014, 68, (3), 305 - 320. DOI:
+10.1080/00324728.2014.934908
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+62. Lv, Xiaozhen; Li, Wenyuan; Ma, Yuan; Chen, Huashuai; Zeng, Yi; Yu, Xin;
+Hofman, Albert; Wang, Huali, "Cognitive decline and mortality among
+community-dwelling Chinese older people." BMC Medicine. 2019, 17, 63. DOI:
+10.1186/s12916-019-1295-8
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+63. Lv, Y.B.; Yin, Z.X.; Chei, C.L.; Brasher, M.S.; Zhang, J.; Kraus, V.B.;
+Qian, F.; Shi, X.M.; Matchar, D.B.; Zeng, Y., "Serum cholesterol levels
+within the high normal range are associated with better cognitive
+performance among Chinese elderly." Journal of Nutrition, Health and Aging.
+Mar 2016, 20, (3), 280 - 287. DOI: 10.1007/s12603-016-0701-6
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+64. Lv, Yue-Bin; Zhu, Peng-Fei; Yin, Zhao-Xue; Kraus, Virginia B.;
+Threapleton, Diane; Chei, Choy-Lye; Brasher, Melanie S.; Zhang, Juan; Qian,
+Han-Zhu; Mao, Chen; Matchar, David B.; Luo, Jie-Si; Zeng, Yi; Shi, Xiao-
+Ming, "A U-shaped association between blood pressure and cognitive
+impairment in Chinese elderly." Journal of the American Medical Directors
+Association. Feb 2017, 18, (2), 193.e7 - 193.e13. DOI:
+10.1016/j.jamda.2016.11.011
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+65. Lyu, Y.; Yin, Z.;  Luo, J.;  Shi, X.; Zeng, Y., "Association between
+anemia and 3-year all-cause mortality among oldest old people in longevity
+areas in China." Zhonghua Liuxingbingxue Zazhi. Jul 2015, 36, (7), 682 -
+686.
+Full text PDF: https://www.netspar.nl/assets/uploads/52_Hanewald_paperIPW.pdf
+
+66. Mangyo, Eiji, "Is a Daughter Really Like Water Spilled on the Ground?
+Adult Children's Gender, Filial Support, and Parental
+Mortality in Rural China." No.E14-4 Economic Research Center Discussion
+Paper. Nagoya, Japan: Nagoya University Graduate School of Economics, Feb
+2014.
+Abstract: https://nagoya.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=17422&item_no=1&page_id=28&block_id=27
+Full text PDF: https://nagoya.repo.nii.ac.jp/?action=repository_uri&item_id=17422&file_id=17&file_no=1
+
+67. Mao, Xupeng; Han, Wen-Jui, "Living arrangements and older adults'
+psychological well-being and life satisfaction in China: Does social
+support matter?." Family Relations. Oct 2018, 67, (4), 567 - 584. DOI:
+10.1111/fare.12326
+Abstract: https://nagoya.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=17422&item_no=1&page_id=28&block_id=27
+Full text PDF: https://nagoya.repo.nii.ac.jp/?action=repository_uri&item_id=17422&file_id=17&file_no=1
+
+68. Miyawaki, C.E.; Liu, M.; Zhang, X., "Gender Differences in Cognitive
+Impairment Among the Old and Oldest-Old in China." Presented at the 21st
+International Association of Gerontology and Geriatrics (IAGG) World
+Congress, International Association of Gerontology and Geriatrics (IAGG),
+San Francisco, CA, Jul 23-27, 2017. DOI: 10.1093/geroni/igx004.2536
+Abstract: https://nagoya.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=17422&item_no=1&page_id=28&block_id=27
+Full text PDF: https://nagoya.repo.nii.ac.jp/?action=repository_uri&item_id=17422&file_id=17&file_no=1
+
+69. Miyawaki, Christina E.; Liu, Minhui, "Gender differences in cognitive
+impairment among the old and the oldest-old in China." Geriatrics and
+Gerontology International. Jul 2019, 19, (7), 586 - 592. DOI:
+10.1111/ggi.13666
+Abstract: https://nagoya.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=17422&item_no=1&page_id=28&block_id=27
+Full text PDF: https://nagoya.repo.nii.ac.jp/?action=repository_uri&item_id=17422&file_id=17&file_no=1
+
+70. Mund, Marcus; Freuding, Maren M.; Mobius, Kathrin; Horn, Nicole; Neyer,
+Franz J., "The stability and change of loneliness across the life span: A
+meta-analysis of longitudinal studies." Personality and Social Psychology
+Review. Feb 2020, 24, (1), 24 - 52. DOI: 10.1177/1088868319850738
+Abstract: https://nagoya.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=17422&item_no=1&page_id=28&block_id=27
+Full text PDF: https://nagoya.repo.nii.ac.jp/?action=repository_uri&item_id=17422&file_id=17&file_no=1
+
+71. Ni, Yuhan; Tein, Jenn-Yun; Zhang, Minqiang; Zhen, Fengquan; Huang,
+Feifei; Huang, Yingshi; Yao, Yiming, "The need to belong: A parallel
+process latent growth curve model of late life negative affect and
+cognitive function." Archives of Gerontology and Geriatrics. Jul-Aug 2020,
+89, (104049),. DOI: 10.1016/j.archger.2020.104049
+Abstract: https://nagoya.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=17422&item_no=1&page_id=28&block_id=27
+Full text PDF: https://nagoya.repo.nii.ac.jp/?action=repository_uri&item_id=17422&file_id=17&file_no=1
+
+72. Peng, R.; Huang, X.; Wu, B., "The Impact of Long-Term Care Policy on
+Family Eldercare Costs in China: A System Dynamics Simulation." Presented
+at the 21st International Association of Gerontology and Geriatrics (IAGG)
+World Congress, International Association of Gerontology and Geriatrics
+(IAGG), San Francisco, CA, Jul 23-27, 2017. DOI: 10.1093/geroni/igx004.2588
+Abstract: https://nagoya.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=17422&item_no=1&page_id=28&block_id=27
+Full text PDF: https://nagoya.repo.nii.ac.jp/?action=repository_uri&item_id=17422&file_id=17&file_no=1
+
+73. Porter, Maria, "Spousal bargaining over care for elderly parents in
+China: Imbalances in sex ratios influence the allocation of support."
+Journal of Development Studies. 2017, 53, (4), 514 - 529. DOI:
+10.1080/00220388.2016.1156093
+Abstract: https://nagoya.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=17422&item_no=1&page_id=28&block_id=27
+Full text PDF: https://nagoya.repo.nii.ac.jp/?action=repository_uri&item_id=17422&file_id=17&file_no=1
+
+74. Praeg, Patrick; Choi, Seongsoo; Monden, Christiaan W.S., "Sibship Size
+in Low-Fertility Countries Over the Twentieth Century: Declining Social
+Disparities? [poster]." Presented at the Population Association of America
+2018 Annual Meeting, Population Association of America (PAA), Denver, CO,
+Apr 27, 2018. P6-15
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+75. Sereny, Melanie Dawn, "Family Ties, Economic Resources, and the Well-
+Being of Older Adults Across Communities in China." Dissertation, Duke
+University, 2013.
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+76. Shi, Junrong, "A Later Life Without Children in China: A Cross-
+Sectional Examination of Moderators and Mediators of the Effects of
+Childlessness on the Well-Being of Elders." Dissertation, State University
+of New York at Albany, 2018.
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+77. Shi, Wen Hui; Zhang, Hong Yan; Juan Zhang; Lyu, Yue Bin; Brasher,
+Melanie S.; Zhaoxue, Yin; Luo, Jiesi; Hu, Dong Sheng; Feng, Lei; Shi, Xiao-
+Ming, "The status and associated factors of successful aging among older
+adults residing in longevity areas in China." Biomedical and Environmental
+Sciences. May 2016, 29, (5), 347 - 355. DOI: 10.3967/bes2016.045
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+78. Shi, Xiaoming; Lv, Yuebin; Mao, Chen; Yuan, Jinqiu; Yin, Zhaoxue; Gao,
+Xiang; Zhang, Zuofeng, "Garlic consumption and all-cause mortality among
+Chinese oldest-old individuals: A population-based cohort study."
+Nutrients. 2019, 11, (7), 1504. DOI: 10.3390/nu11071504
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+79. Sia, Bik-Kai; Tey, Nai-Peng; Goh, Kim-Leng; Ng, Sor-Tho, "Productive
+engagement of older adults in China: A multilevel analysis." Geriatrics and
+Gerontology International. Dec 2021, 21, (12), 1138 - 1146. DOI:
+10.1111/ggi.14299
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+80. Su, L.Q.; Yin, Z.X.; Xu, N.; Lyu, Y.B.; Luo, J.S.; Shi, X.M.,
+"Association between oxygen saturation and cognitive function in older
+adults from longevity areas in China." Chinese Journal of Preventive
+Medicine. Jul 6, 2016, 50, (7), 600 - 604. DOI: 10.3760/cma.j.issn.0253-
+9624.2016.07.007
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+81. Sun, Jian; Lyu, Xiaoyin; Lyu, Shoujun; Zhao, Rui, "The effect of social
+participation on income-related inequality in health outcome among Chinese
+older adults." International Health. Jan 2021, 13, (1), 80 - 88. DOI:
+10.1093/inthealth/ihaa023
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+82. Sun, Rongjun, "Re-examining the role of engaging in activities: Does
+its effect on mortality change by age among the Chinese elderly?." Ageing
+International. Mar 2017, 42, (1), 78 - 92. DOI: 10.1007/s12126-017-9282-x
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+83. Teh, Jane Kimm Lii; Tey, Nai Peng, "Changes in Loneliness Among Oldest-
+Old Chinese." Presented at the 4th International Conference on Quantitative
+Sciences and Its Applications (ICOQSIA 2016), School of Quantitative
+Sciences, Universiti Utara Malaysia, Putrajaya, Malaysia, Aug 16-18, 2016.
+DOI: 10.1063/1.4966088
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+84. Tho, N.S., "Self-rated life satisfaction of the oldest-old in China: Do
+intergenerational relations matter?." International Journal of China
+Studies. Dec 2018, 9, (3), 337 - 346.
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+85. Wan, Rong; Su, Yuhao; Zhu, Meilan; Hu, Dongxia; Huang, Ying, "Elevated
+Blood Malondialdehyde Level Contributed to a High Stroke Risk in a Chinese
+Elderly Population from Rural Areas." Preprint. Research Square, Feb 20,
+2023.. DOI: 10.21203/rs.3.rs-2593868/v1
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+86. Wan, Rong; Su, Yuhao; Zhu, Meilan; Huang, Ying, "Elevated blood
+malondialdehyde level contributed to a high stroke risk in a Chinese
+elderly population from rural areas: A cross-sectional study." Scientific
+Reports. 2024, 14, (4325),. DOI: 10.1038/s41598-024-54419-9
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+87. Wang, Freda Yanrong, "Causal inference between the health status and
+living arrangements of elderly people in China." Social Indicators
+Research. In press 2021,. DOI: 10.1007/s11205-021-02792-7
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+88. Wang, Fubaihui; Zhen, Qingkai; Li, Kaigang; Wen, Xu, "Association of
+socioeconomic status and health-related behavior with elderly health in
+China." PLOS One. Sep 2018, 13, (9), e0204237. DOI:
+10.1371/journal.pone.0204237
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+89. Wang, J.; Taylor, A.W.; Zhang, T.; Appleton, S.; Shi, Zumin,
+"Association between body mass index and all-cause mortality among oldest
+old Chinese." Journal of Nutrition, Health and Aging. Feb 2018, 22, (2),
+262 - 268. DOI: 10.1007/s12603-017-0907-2
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+90. Wang, Jing; Yang, Qing; Wu, Bei, "Effects of care arrangement on the
+age of institutionalization among community-dwelling Chinese older adults."
+Journal of Aging and Social Policy. 2023, 35, (5), 595 - 610. DOI:
+10.1080/08959420.2020.1726720
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+91. Wang, Jun; Liu, Dan; Tian, E.; Guo, Zhao-Qi; Chen, Jing-Yu; Kong, Wei-
+Jia; Zhang, Su-Lin, "Hearing impairment with cognitive decline increases
+all-cause mortality risk in Chinese adults aged 65 years or older: A
+population-based longitudinal study." Frontiers in Aging Neuroscience.
+2022, 14, (865821),. DOI: 10.3389/fnagi.2022.865821
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+92. Wang, X., "Social Determinants of Cognitive Ability: Effect of
+Individual SES and Social Inequality Among Chinese Older Adults [poster]."
+Presented at the Gerontological Society of America 2018 Annual Scientific
+Meeting, Gerontological Society of America, Boston, MA, Nov 14-18, 2018.
+DOI: 10.1093/geroni/igy031.3687
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+93. Wang, Xin; Wang, Binbin; Yang, Fuwen; Shang, Kaijian; Chen, Shaowei;
+Zhang, Yue, "Associations between plasma metal elements and risk of
+cognitive impairment among Chinese older adults." Frontiers in Aging
+Neuroscience. 2024, 16, (1353286),. DOI: 10.3389/fnagi.2024.1353286
+Abstract: https://paa.confex.com/paa/2018/meetingapp.cgi/Paper/21972
+
+94. Wang, Yanrong; Wong, Sin Kwok Raymond, "The Casual Inference Between
+Living Arrangements and Health Status of the Elderly in China from 2002 to
+2011 [poster]." Presented at the 2016 Annual Meeting of the Population
+Association of America, Population Association of America (PAA),
+Washington, DC, Mar 31-Apr 2, 2016. P4-78
+Abstract: https://repository.ust.hk/ir/Record/1783.1-79801
+
+95. Wei, Kai ; Liu, Yong; Yang, Junjie; Gu, Nannan; Cao, Xinyi; Zhao,
+Xudong; Jiang, Lijuan; Li, Chunbo, "Living Arrangement Modifies the
+Associations of Loneliness with Adverse Health Outcomes in Older Adults:
+Evidence From the CLHLS." Research Square, Preprint. Jul 7, 2021.. DOI:
+10.21203/rs.3.rs-669199/v1
+Abstract: https://repository.ust.hk/ir/Record/1783.1-79801
+
+96. Wei, Kai; Yang, Junjie; Lin, Shaohui; Mei, Yi; An, Na; Cao, Xinyi;
+Jiang, Lijuan; Liu, Chi; Li, Chunbo, "Dietary habits modify the association
+of physical exercise with cognitive impairment in community-dwelling older
+adults." Journal of Clinical Medicine. Sep 2022, 11, (17), 5122. DOI:
+10.3390/jcm11175122
+Abstract: https://repository.ust.hk/ir/Record/1783.1-79801
+
+97. Wen, S.; Song, S., "On the effect of health insurance on Chinese rural
+elders’ health demand." Acta Medica Mediterranea. 2016, 32, 481.
+1.
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+98. Wu, C.; Huang, F., "Formal or Informal? The Impact of Informal
+Caregiving on Formal Home Care [poster]." Presented at the 21st
+International Association of Gerontology and Geriatrics (IAGG) World
+Congress, International Association of Gerontology and Geriatrics (IAGG),
+San Francisco, CA, Jul 23-27, 2017. DOI: 10.1093/geroni/igx004.571
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+99. Xiao, Qi; Wu, Meiliyang; Zeng, Tieying, "Social support networks in
+Chinese older adults: health outcomes and health related behaviors: A path
+analysis." Aging and Mental Health. In press 2019, 1 - 9. DOI:
+10.1080/13607863.2018.1488941
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+100. Xie, Guihua; Zhang, Yangyang; Li, Xingchen, "Women and family in
+transitional China: Family structure and elderly support." Kazoku
+Shakaigaku Kenkyu. 2017, 29, (2), 165 - 179. DOI:
+10.4234/jjoffamilysociology.29.165
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+101. Xiong, Jian; Xue, Wen-Xiong, "The role of vitamin D in the link
+between physical frailty and cognitive function: A mediation analysis in
+community-dwelling Chinese older adults." Frontiers in Nutrition. 2022, 9,
+(922673),. DOI: 10.3389/fnut.2022.922673
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+102. Xu, Hanzhang; Dupre, Matthew E.; Gu, Danan; Wu, Bei, "The impact of
+residential status on cognitive decline among older adults in China:
+Results from a longitudinal study." BMC Geriatrics. 2017, 17, (107),. DOI:
+10.1186/s12877-017-0501-9
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+103. Xu, P.; Burr, J.A., "Receipt of Financial Support from Adult Children
+and Cognitive Function Among Chinese Older Adults [poster]." Presented at
+the 21st International Association of Gerontology and Geriatrics (IAGG)
+World Congress, International Association of Gerontology and Geriatrics
+(IAGG), San Francisco, CA, Jul 23-27, 2017. DOI: 10.1093/geroni/igx004.607
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+104. Xu, Ping, "Intergenerational Financial Exchange and Cognitive Well-
+Being among Older Adults in China." Dissertation, University of
+Massachusetts Boston, 2017.
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+105. Xu, Ping; Burr, Jeffrey A.; Kim, Kyungmin; Cong, Zhen,
+"Intergenerational financial exchange and cognitive impairment among older
+adults in China." Aging and Mental Health. In press 2019, 1 - 9. DOI:
+10.1080/13607863.2018.1481930
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+106. Xu, Z., "Childhood Disadvantages and Age Trajectories of Frailty in
+China: A Life Course Approach." Presented at the 2015 Gerontological
+Society of America (GSA) Annual Scientific Meeting, Gerontological Society
+of America (GSA), Orlando, FL, Nov 18-22, 2015. DOI:
+10.1093/geront/gnv456.02
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+107. Xue, Qingyuan; Witvorapong, Nopphol, "Effects of socioeconomic status
+on aging people's health in China." Journal of Family and Economic Issues.
+Sep 2022, 43, (3), 476 - 488. DOI: 10.1007/s10834-022-09840-5
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+108. Xue, Qingyuan; Witvorapong, Nopphol, "Impacts of health insurance on
+health care utilization and health behaviors among older people in China."
+China Economic Journal. 2023, 16, (1), 80 - 99. DOI:
+10.1080/17538963.2022.2094585
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+109. Xue, Qingyuan; Witvorapong, Nopphol, "The impact of living
+arrangements of older people on intergenerational transfers from their
+adult children in China." Singapore Economic Review. In press 2021,. DOI:
+10.1142/S0217590821400051
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+110. Yang L1, Martikainen P, Silventoinen K., "Effects of individual,
+spousal, and offspring socioeconomic status on mortality among elderly
+people in China." Journal of Epidemiology. Nov 2016, 26, (11), 602 - 609.
+DOI: 10.2188/jea.JE20150252
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+111. Yang, Fang, "Widowhood and loneliness among Chinese older adults: The
+role of education and gender." Aging and Mental Health. 2021, 25, (7), 1214
+- 1223. DOI: 10.1080/13607863.2020.1732293
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+112. Yang, Fang; Gu, Danan, "Predictors of Loneliness Incidence in Chinese
+Older Adults from a Life Course Perspective." Presented at the
+Gerontological Society of America (GSA) 2019 Annual Scientific Meeting,
+Gerontological Society of America (GSA), Austin, TX, Nov 13-18, 2019. DOI:
+10.1093/geroni/igz038.1345
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+113. Yang, Fang; Gu, Danan, "Predictors of loneliness incidence in Chinese
+older adults from a life course perspective: A national longitudinal
+study." Aging and Mental Health. In press 2019, 1 - 10. DOI:
+10.1080/13607863.2018.1558174
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+114. Yang, Yi, "Characterising long term care needs among Chinese older
+adults with cognitive impairment or ADL limitations." Journal of Cross-
+Cultural Gerontology. Mar 2020, 35, (1), 35 - 47. DOI: 10.1007/s10823-019-
+09382-8
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+115. Yao, Yao; Liu, Linxin; Guo, Guang; Zeng, Yi; Ji, John S., "Interaction
+of Sirtuin 1 (SIRT1) Candidate Longevity Gene and Particulate Matter
+(PM2.5) on All-cause Mortality: A Longitudinal Cohort Study in China."
+Research Square, Preprint. Sep 18, 2020.. DOI: 10.21203/rs.3.rs-77022/v1
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+116. Yao, Yao; Liu, Linxin; Guo, Guang; Zeng, Yi; Ji, John S., "Interaction
+of Sirtuin 1 (SIRT1) candidate longevity gene and particulate matter
+(PM2.5) on all-cause mortality: A longitudinal cohort study in China."
+Environmental Health. 2021, 20, (25),. DOI: 10.1186/s12940-021-00718-x
+Full text PDF: http://www.actamedicamediterranea.com/archive/2016/special-issue-1/on-the-effect-of-health-insurance-on-chinese-rural-elders-health-demand/pdf
+
+117. Yeung, Wei-Jun; Yang, Yi; Feng, Qiushi, "Social Exclusion and
+Cognitive Impairment of the Elderly in China—A Comparison of Rural/Urban
+and Male/Female Elderly [poster]." Presented at the Population Association
+of America 2017 Annual Meeting, Population Association of America (PAA),
+Chicago, IL, Apr 27-29, 2017. P10-79
+Abstract: https://paa.confex.com/paa/2017/meetingapp.cgi/Paper/14890
+
+118. Yi, Zeng; George, Linda; Sereny, Melanie; Gu, Danan; Vaupel, James W.,
+"Older Parents Enjoy Better Filial Piety and Care From Daughters Than Sons
+in China." MPIDR Working Paper. 2015-012, Rostock, Germany: Max Planck
+Institute for Demographic Research, Dec 2015.
+Full text PDF: https://pdfs.semanticscholar.org/37e3/ab7be94cae38de4f934defb1649725dafde3.pdf
+
+119. Yi, Zeng; Geroge, Linda; Sereny, Melanie; Gu, Danan; Vaupel, James W.,
+"Older parents enjoy better filial piety and care from daughters than sons
+in China." American Journal of Medical Research. 2016, 3, (1), 244 - 272.
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+120. Yin, Zhaoxue; Brasher, Melanie Sereny; Kraus, Virginia B.; Lv, Yuebin;
+Shi, Xiaoming; Zeng, Yi, "Dietary diversity was positively associated with
+psychological resilience among elders: A population-based study."
+Nutrients. Mar 2019, 11, (3), 650. DOI: 10.3390/nu11030650
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+121. Yin, Zhaoxue; Shi, Xiaoming; Kraus, Virginia B.; Brasher, Melanie
+Sereny; Chen, Huashuai; Liu, Yuzhi; Lv, Yuebin; Zeng, Yi, "Gender-dependent
+association of body mass index and waist circumference with disability in
+the Chinese oldest old." Obesity. Aug 2014, 22, (8), 1918 - 1925. DOI:
+10.1002/oby.20775
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+122. You, Jin; Fung, Helene; Vitaliano, Peter, "The pattern of social
+support seeking and its socio-demographic variations among older adults in
+China." European Journal of Ageing. Sep 2020, 17, (3), 341 - 348. DOI:
+10.1007/s10433-019-00550-w
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+123. Yu, Jing; Yan, Zi; Li, Juan, "Living arrangement and its association
+with residential needs of community-dwelling older adults in China."
+Journal of Psychology and Psychotherapy. Feb 2016, 6, (1), 1000235. DOI:
+10.4172/2161-0487.1000235
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+124. Zeng, Yi; Feng, Qiushi; Hesketh, Therese; Christensen, Kaare; Vaupel,
+James W., "Survival, disabilities in activities of daily living, and
+physical and cognitive functioning among the oldest-old in China: A cohort
+study." Lancet. April 2017, 389, (10079), 1619 - 1629. DOI: 10.1016/S0140-
+6736(17)30548-2
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+125. Zhai, Yi; Shi, Xiao Ming; Fitzgerald, Simon M.; Qian, Han Zhu; Kraus,
+Virginia B.; Sereny, Melanie; Hu, Perry; Yin, Zhao Xue; Xu, Jian Wei; Zeng,
+Yi, "High sensitivity C-reactive protein associated with different health
+predictors in middle-aged and oldest old Chinese." Biomedical and
+Environmental Sciences. Jun 2012, 25, (3), 257 - 266. DOI: 10.3967/0895-
+3988.2012.03.002
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+126. Zhang, Haofan; Liu, Linxin; Wu, Chih-Da; Zeng, Yi; Liu, Miaomiao; Bi,
+Jun; Ji, John S., "Effect of heatwaves and greenness on mortality among
+Chinese older adults." Environmental Pollution. In press 2021,. DOI:
+10.1016/j.envpol.2021.118009
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+127. Zhang, J., "Participation in Productive Activities and the Onset of
+ADL Disability Among Chinese Older Adults [poster]." Presented at the
+Gerontological Society of America 2018 Annual Scientific Meeting,
+Gerontological Society of America, Boston, MA, Nov 14-18, 2018. DOI:
+10.1093/geroni/igy023.1778
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+128. Zhang, Jieting; Zou, Liye; Jiao, Can; Zhang, Minqiang; Wang, Lina;
+Song, Wook; Yu, Qian; Grabovac, Igor; Zhang, Yanjie; Willeit, Peter; Yang,
+Lin, "Cognitive benefits of activity engagement among 12,093 adults aged
+over 65 years." Brain Sciences. 2020, 10, (12), 967. DOI:
+10.3390/brainsci10120967
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+129. Zhang, Li, "A latent class analysis of health lifestyles and health
+outcomes among Chinese older adults." Ageing and Society. In press 2020,.
+DOI: 10.1017/S0144686X20001063
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+130. Zhang, Li, "Living arrangements and subjective well-being among the
+Chinese elderly." Open Journal of Social Sciences. Mar 2015, 3, (3), 150 -
+161. DOI: 10.4236/jss.2015.33024
+Full text PDF: https://www.ceeol.com/search/viewpdf?id=661410
+
+131. Zhang, Li, "The age, gender and residence differentials in the
+relationship of intergenerational relations and chinese elderly's
+subjective well-being." Global Health Governance. Fall 2016, 10, (2), 151 -
+166.
+Full text PDF: http://blogs.shu.edu/ghg/files/2016/10/Fall-2016-Issue-1.pdf#page=151
+
+132. Zhang, Wenjuan; Feldman, Marcus W., "Disability trajectories in
+activities of daily living of elderly Chinese before death." China
+Population and Development Studies. In press 2020,. DOI: 10.1007/s42379-
+020-00063-5
+Full text PDF: http://blogs.shu.edu/ghg/files/2016/10/Fall-2016-Issue-1.pdf#page=151
+
+133. Zhang, Yangchang; Xiong, Yang; Yu, Qiuhua; Shen, Shisi; Chen, Li; Lei,
+Xun, "The Activity of Daily Living (ADL) Subgroups and Health Impairment
+Among Chinese Elderly: A Latent Profile Analysis." Preprint. Research
+Square, Aug 20, 2020.. DOI: 10.21203/rs.3.rs-58737/v1
+Full text PDF: http://blogs.shu.edu/ghg/files/2016/10/Fall-2016-Issue-1.pdf#page=151
+
+134. Zhang, Yu-Jie; Yao, Yao; Zhang, Pei-Dong; Li,  Zhi-Hao; Zhang, Pei;
+Li, Fu-Rong; Wang, Zheng-He; Liu, Dan; Lv, Yue-Bin; Kang, Lin; Chen, Liang-
+Kung; Shi, Xiao-Ming; Mao, Chen, "Association of Regular Aerobic Exercises
+and Neuromuscular Junction Variants with Incidence of Frailty: An Analysis
+of the Chinese Longitudinal Health and Longevity Survey." Society on
+Sarcopenia, Cachexia and Wasting Disorders, 2020..
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+135. Zhang, Yu-Jie; Yao, Yao; Zhang, Pei-Dong; Li, Zhi-Hao; Zhang, Pei; Li,
+Fu-Rong; Wang, Zheng-He; Liu, Dan; Lv, Yue-Bin; Kang, Lin; Shi, Xiao-Ming;
+Mao, Chen, "Association of regular aerobic exercises and neuromuscular
+junction variants with incidence of frailty: An analysis of the Chinese
+Longitudinal Health and Longevity Survey." Journal of Cachexia, Sarcopenia
+and Muscle. Apr 2021, 12, (2), 350 - 357. DOI: 10.1002/jcsm.12658
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+136. Zhang, Zili; Dong, Shizheng; Zhang, Xuanxuan, "Effects of government
+cash subsidies on health risk behaviors of the rural elderly: Evidence from
+social pension expansions in China." Tobacco Induced Diseases. 2021, 19,
+(16),. DOI: 10.18332/tid/132859
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+137. Zhao, Ling; Yang, Fan; Xu, Ke; Cao, Huiqing; Zheng, Gu-Yan; Zhang,
+Yan; Li, Jianxin; Cui, Hanbin; Chen, Xiaomin; Zhu, Zhiming; He, Hongbo; Mo,
+Xianming; Kennedy, Brian K.; Suh, Yousin; Zeng, Yi; Tian, Xiao-Li, "Common
+genetic variants of the β2-adrenergic receptor affect its translational
+efficiency and are associated with human longevity." Aging Cell. Dec 2012,
+11, (6), 1094 - 1101. DOI: 10.1111/acel.12011
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+138. Zhao, Xiaohang; Jin, Lei; Sun, Skylar Biyang, "The bidirectional
+association between physical and cognitive function among Chinese older
+adults: A mediation analysis." International Journal of Aging and Human
+Development. In press 2020,. DOI: 10.1177/0091415020940214
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+139. Zhong, B.L.; Chen, S.L.; Tu, X; Conwell, Y., "Loneliness and cognitive
+function in older adults: Findings from the Chinese Longitudinal Healthy
+Longevity Survey." Journals of Gerontology, Series B: Psychological
+Sciences and Social Sciences. Jan 2017, 72, (1), 120 - 128. DOI:
+10.1093/geronb/gbw037
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+140. Zhou, Jinhui; Lv, Yuebin; Mao, Chen; Duan, Jun; Gao, Xiang; Wang,
+Jiaonan; Yin, Zhaoxue; Shi, Wanying; Luo, Jiesi; Kang, Qi; Zhang,
+Xiaochang; Wei, Yuan; Kraus, Virginia Byers; Shi, Xiaoming, "Development
+and validation of a nomogram for predicting the 6-year risk of cognitive
+impairment among Chinese older adults." Journal of the American Medical
+Directors Association. Jun 2020, 21, (6), 864 - 871.e6. DOI:
+10.1016/j.jamda.2020.03.032
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+141. Zhou, Yun; Feng, Ting, "A study on the intensity of care needs among
+the Chinese elderly in later life." In Zeng, Yi; Lu, Jiehua; Lei, Xiaoyan;
+Shi, Xiaoming, Trends and Determinants of Healthy Aging in China. 175 -
+188, Singapore: Springer Nature Singapore,2022. DOI: 10.1007/978-981-19-
+4154-2_11
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+142. Zhou, Z.; Wang, P.; Han, Y.; Fang, Y., "The Effect of Social
+Engagement and Its Change on Incident Dementia Among Chinese Older Adults
+[poster]." Presented at the 21st International Association of Gerontology
+and Geriatrics (IAGG) World Congress, International Association of
+Gerontology and Geriatrics (IAGG), San Francisco, CA, Jul 23-27, 2017. DOI:
+10.1093/geroni/igx004.4294
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+143. Zhou, Z.; Yan, J.; Wang, P.; Zeng, Y.; Fang, Y., "Estimating the Joint
+Effects of Social Engagement and Loneliness on the Risk of Dementia Among
+Chinese Older Adults [poster]." Presented at the Gerontological Society of
+America 2018 Annual Scientific Meeting, Gerontological Society of America,
+Boston, MA, Nov 14-18, 2018. DOI: 10.1093/geroni/igy023.1802
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+144. Zhou, Zi; Cai, Lun; Fu, Jian; Han, Yaofeng; Fang, Ya, "Hypothetical
+interventions on risk factors for cognitive impairment among Chinese older
+adults: An application of the parametric g-formula." International Journal
+of Environmental Research and Public Health. 2020, 17, (3), 1021. DOI:
+10.3390/ijerph17031021
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+145. Zhou, Zi; Cai, Lun; Zhuang, Meilan; Hong, Y. Alicia; Fang, Ya, "A
+longitudinal analysis of the association between the living arrangements
+and psychological well-being of older Chinese adults: The role of income
+sources." BMC Geriatrics. 2019, 19, (347),. DOI: 10.1186/s12877-019-1371-0
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+146. Zhou, Zi; Mao, Fanzhen; Zhang, Wei; Towne, Samuel D., Jr.; Wang, Ping;
+Fang, Ya, "The association between loneliness and cognitive impairment
+among older men and women in China: A nationwide longitudinal study."
+International Journal of Environmental Research and Public Health. Aug
+2019, 16, (16), 2877. DOI: 10.3390/ijerph16162877
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+147. Zhou, Zi; Wang, Ping; Fang, Ya, "Loneliness and the risk of dementia
+among older Chinese adults: Gender differences." Aging and Mental Health.
+2018, 22, (4), 519 - 525. DOI: 10.1080/13607863.2016.1277976
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+148. Zhou, Zi; Wang, Ping; Fang, Ya, "Social engagement and its change are
+associated with dementia risk among Chinese older adults: A longitudinal
+study." Scientific Reports. Jan 2018, 8, (1551),. DOI: 10.1038/s41598-017-
+17879-w
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+149. Zhu, Anna; Chen, Hui; Shen, Jie; Wang, Xiaoxi; Li, Zhihui; Zhao, Ai;
+Shi, Xiaoming; Yan, Lijing; Zeng, Yi; Yuan, Changzheng; Ji, John S.,
+"Interaction between plant-based dietary pattern and air pollution on
+cognitive function: A prospective cohort analysis of Chinese older adults."
+Lancet Regional Health. Western Pacific. Mar 2022, 20, (100372),. DOI:
+10.1016/j.lanwpc.2021.100372
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+150. Zhu, Anna; Wu, Chenkai; Yan, Lijing L.; Wu, Chih-Da; Bai, Chen; Shi,
+Xiaoming; Zeng, Yi; Ji, John S., "Association between residential greenness
+and cognitive function: Analysis of the Chinese Longitudinal Healthy
+Longevity Survey." BMJ Nutrition, Prevention and Health. Dec 2019, 2, (2),.
+DOI: 10.1136/bmjnph-2019-000030
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+151. Zhu, Anna; Yan, Lijing; Wu, Chenkai; Ji, John S., "Residential
+greenness and frailty among older adults: A longitudinal cohort in China."
+Journal of the American Medical Directors Association. Jun 2020, 21, (6),
+759 - 765. DOI: 10.1016/j.jamda.2019.11.006
+Full text PDF: https://society-scwd.org/wp-content/uploads/JCSM-D-20-00198.pdf
+
+152. Zhu, Haiyan; Feng, Qiushi; Gu, Danan, "Self-rated health and
+interviewer-rated health: Differentials in predictive power for mortality
+among subgroups of Chinese elders." International Journal of Population
+Studies. 2016, 2, (2), 74 - 91. DOI: 10.18063/IJPS.2016.02.007
+Full text PDF: https://vtechworks.lib.vt.edu/bitstream/handle/10919/76737/ZhuSelf-rated2017.pdf?sequence=1&isAllowed=y
+
+153. Zhu, Huoyun; Walker, Alan, "The gap in social care provision for older
+people in China." Asian Social Work and Policy Review. Feb 2018, 12, (1),
+17 - 28. DOI: 10.1111/aswp.12134
+Full text PDF: https://vtechworks.lib.vt.edu/bitstream/handle/10919/76737/ZhuSelf-rated2017.pdf?sequence=1&isAllowed=y
+
+154. Zhu, Qi; Fan, Hui; Zhang, Xiaoning; Ji, Chao; Xia, Yang, "Changes in
+sleep duration and 3-year risk of mild cognitive impairment in Chinese
+older adults." Aging. Jan 2020, 12, (1), 309 - 317. DOI:
+10.18632/aging.102616
+Full text PDF: https://vtechworks.lib.vt.edu/bitstream/handle/10919/76737/ZhuSelf-rated2017.pdf?sequence=1&isAllowed=y
